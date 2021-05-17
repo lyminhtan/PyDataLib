@@ -9,7 +9,7 @@ class Notification:
     def __init__(self, usr, pwd):
         self.__usr = usr
         self.__pwd = pwd
-    def sendMail(to, subject, body):    
+    def sendMail(self, to, subject, body):
         smtp_ssl_host = 'smtp.gmail.com'  # smtp.mail.yahoo.com
         smtp_ssl_port = 465
         
