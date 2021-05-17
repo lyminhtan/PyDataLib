@@ -1,10 +1,11 @@
 from distutils.core import setup
 
 setup(
-    name='pydatalib',
+    name='PyDataLib',
     version='0.0.1',
-    packages=['mailnotify'],
-    url='https://github.com/lyminhtan/pydatalib',
+    packages=['pydatalib'],
+    url='https://github.com/lyminhtan/PyDataLib',
+    download_url = 'https://github.com/lyminhtan/PyDataLib/archive/refs/tags/v_001.tar.gz',
     license='MIT',
     author='Tan Minh Ly',
     author_email='lyminhtan@gmail.com',
