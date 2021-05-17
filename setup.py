@@ -2,10 +2,10 @@ from distutils.core import setup
 
 setup(
     name='PyDataLib',
-    version='0.0.1',
+    version='0.0.2',
     packages=['pydatalib'],
     url='https://github.com/lyminhtan/PyDataLib',
-    download_url = 'https://github.com/lyminhtan/PyDataLib/archive/refs/tags/v_001.tar.gz',
+    download_url = 'https://github.com/lyminhtan/PyDataLib/archive/refs/tags/v_002.tar.gz',
     license='MIT',
     author='Tan Minh Ly',
     author_email='lyminhtan@gmail.com',
