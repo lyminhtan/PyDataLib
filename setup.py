@@ -4,7 +4,7 @@ setup(
     name='pydatalib',
     version='0.0.1',
     packages=['mailnotify'],
-    url='',
+    url='https://github.com/lyminhtan/pydatalib',
     license='MIT',
     author='Tan Minh Ly',
     author_email='lyminhtan@gmail.com',
